@@ -1,0 +1,13 @@
+E:\cinema\cinema\bin\Release\cinema.exe.config
+E:\cinema\cinema\bin\Release\cinema.exe
+E:\cinema\cinema\bin\Release\cinema.pdb
+E:\cinema\cinema\obj\Release\cinema.addkino.resources
+E:\cinema\cinema\obj\Release\cinema.Form1.resources
+E:\cinema\cinema\obj\Release\cinema.Plan.resources
+E:\cinema\cinema\obj\Release\cinema.Properties.Resources.resources
+E:\cinema\cinema\obj\Release\cinema.ticket.resources
+E:\cinema\cinema\obj\Release\cinema.user.resources
+E:\cinema\cinema\obj\Release\cinema.csproj.GenerateResource.Cache
+E:\cinema\cinema\obj\Release\cinema.csproj.CoreCompileInputs.cache
+E:\cinema\cinema\obj\Release\cinema.exe
+E:\cinema\cinema\obj\Release\cinema.pdb
